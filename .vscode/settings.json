@@ -1,7 +1,22 @@
 {
     "cSpell.words": [
+        "autodoc",
         "cacheable",
+        "docstore",
+        "Docstore",
+        "dqbd",
+        "hnswlib",
+        "initialised",
+        "istextorbinary",
+        "langchain",
+        "llms",
+        "metadatas",
         "Miniconda",
-        "useb"
+        "normalise",
+        "NSWT",
+        "respository",
+        "tiktoken",
+        "useb",
+        "vectorstores"
     ]
 }
